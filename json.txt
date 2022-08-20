@@ -1,0 +1,25 @@
+{
+    "business_type": "2",
+    "search_req": {
+        "query": "bytes//hello",
+        "scene": 12,
+        "user_attr": {
+            "city": "bytes//广东市",
+            "h5_version": 1010101,
+            "language": "bytes//zh_CN",
+            "province": "bytes//广东省"
+        },
+        "kv_items": [
+            {
+                "key": "bytes//QP",
+                "text_value": "bytes//1"
+            },
+            {
+                "key": "bytes//Intent",
+                "text_value": "bytes//{\"kvs\":[\"key\":\"doctor_0\",\"str_value\":\"{}\"]}"
+            }
+        ]
+    },
+    "sub_type": 0
+}
+
